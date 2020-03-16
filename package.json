@@ -1,0 +1,23 @@
+{
+  "name": "lunchslackbot",
+  "version": "1.0.0",
+  "description": "Atlanta Fooda Lunch Menu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpgaviria/lunchslackbot.git"
+  },
+  "author": "Tanya Gaviria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgaviria/lunchslackbot/issues"
+  },
+  "homepage": "https://github.com/tpgaviria/lunchslackbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "slackbots": "^1.2.0"
+  }
+}
